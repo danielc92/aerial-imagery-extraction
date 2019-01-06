@@ -28,4 +28,4 @@ The amount of points generated in this project may be too time consuming to even
 2. `Phase 2 - Create Points, Filter Points.pynb` - Used to generate coordinates baseed on predefined offsets and filter those points using the shape file boundaries and spatial index (rtree).
 
 # Sources
-- [Local Government Area ESRI Shape file](http://www.abs.gov.au/websitedbs/D3310114.nsf/home/Digital+Boundaries)
+- [Australian Bureau of Statistics - Local Government Areas ASGS Ed 2018 Digital Boundaries in ESRI Shapefile Format](http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202018?OpenDocument)
