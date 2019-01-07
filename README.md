@@ -25,7 +25,7 @@ The amount of points generated in this project may be too time consuming to even
 
 # Notebooks
 1. `Phase 1 - Find Victorias Bounding Box.pynb` - Used to explore the shape files, and generate victorias bounding box.
-2. `Phase 2 - Create Points, Filter Points.pynb` - Used to generate coordinates baseed on predefined offsets and filter those points using the shape file boundaries and spatial index (rtree).
+2. `Phase 2 - Create Points, Filter Points by Victoria.pynb` - Used to generate coordinates baseed on predefined offsets and filter those points using the shape file boundaries and spatial index (rtree).
 
 # Sources
 - [Australian Bureau of Statistics - Local Government Areas ASGS Ed 2018 Digital Boundaries in ESRI Shapefile Format](http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202018?OpenDocument)
